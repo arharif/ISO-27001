@@ -1,2 +1,2 @@
 # ISO-27001
-Formation et un projet sur AUDIT  ORGANISATIONNEL UBER.
+Formation , etude de cas et un exemple de AUDIT  ORGANISATIONNEL.
